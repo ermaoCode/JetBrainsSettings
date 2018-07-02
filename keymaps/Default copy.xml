@@ -1,26 +1,14 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="Back">
+    <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="EditorMoveToPageBottom" />
-  <action id="EditorMoveToPageTop" />
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-  </action>
-  <action id="RecentFiles" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
 </keymap>
