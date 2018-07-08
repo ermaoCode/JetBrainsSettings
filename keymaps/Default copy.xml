@@ -1,7 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="alt left" />
-  </action>
+  <action id="Back" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
