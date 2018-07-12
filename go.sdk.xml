@@ -2,7 +2,7 @@
   <component name="GoSdkList">
     <sdk-path>
       <set>
-        <option value="D:\programs\GO" />
+        <option value="C:\Go" />
       </set>
     </sdk-path>
   </component>
