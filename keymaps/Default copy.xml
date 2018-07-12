@@ -8,12 +8,14 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
@@ -23,6 +25,10 @@
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
@@ -46,6 +52,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
