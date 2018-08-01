@@ -1,4 +1,7 @@
 <keymap version="1" name="mao‘s personal setting" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
@@ -39,6 +42,7 @@
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="JumpToLastWindow" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextTab">
