@@ -41,9 +41,6 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
-  <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
   <action id="IncrementWindowHeight" />
   <action id="JumpToLastWindow" />
   <action id="MoveStatementDown" />
@@ -69,7 +66,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
-  <action id="ToggleBookmark" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
